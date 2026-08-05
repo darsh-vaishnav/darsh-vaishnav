@@ -2,8 +2,8 @@
   GITHUB PROFILE README — SOFTWARE DEVELOPER | B.E. STUDENT
   ------------------------------------------------------------
   HOW TO CUSTOMIZE:
-  • Replace every [Your Name] / your-github-username below.
-  • Stats graphs only work if your GitHub username is correct.
+  • Change the email / portfolio link (search for "your.email@example.com").
+  • Stats graphs use the GitHub username: darsh-vaishnav.
   • Badge colors can be changed via the "color=" query param.
   • Hidden sections are inside <details> — click to expand.
 ============================================================ -->
@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- Animated contribution snake (auto-updates via .github/workflows/snake.yml) -->
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/darsh-vaishnav/darsh-vaishnav/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 <!-- Animated typing banner (edit lines inside the quotes) -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 </a>
 
 <!-- Greeting + tagline -->
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" /> Hi 👋, I'm <span style="color:#38BDF8">[Your Name]</span></h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" /> Hi 👋, I'm <span style="color:#38BDF8">Darsh Vaishnav</span></h1>
 <h3>Software Developer | B.E. Student at Swaminarayan University</h3>
 
 <p><em>"Turning coffee into code and ideas into impact."</em> ☕💻</p>
@@ -44,7 +44,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 ```yaml
-name: [Your Name]
+name: Darsh Vaishnav
 role: Software Developer
 education: B.E. (Bachelor of Engineering) @ Swaminarayan University
 focus:
@@ -174,32 +174,32 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
 <h2 id="stats">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=donut&theme=github_dark&hide_border=true&count_private=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darsh-vaishnav&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-vaishnav&layout=donut&theme=github_dark&hide_border=true&count_private=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue&hide_border=true" width="62%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darsh-vaishnav&theme=github-dark-blue&hide_border=true" width="62%" />
 </p>
 
 <!-- Contribution graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darsh-vaishnav&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=6" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=darsh-vaishnav&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=6" width="95%" />
 </p>
 
 <!-- GitHub profile summary cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darsh-vaishnav&theme=github_dark" width="95%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-github-username&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darsh-vaishnav&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darsh-vaishnav&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darsh-vaishnav&theme=github_dark" width="32%" />
 </p>
 
 <!-- 3D animated contribution graph (auto-updates daily via .github/workflows/profile-3d.yml) -->
@@ -207,13 +207,13 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
 <summary><b>🎲 3D Animated Contribution Graph</b> — click to view</summary>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/master/profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/darsh-vaishnav/darsh-vaishnav/master/profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Contribution Graph" />
 </p>
 </details>
 
 <!-- Contribution grid (3D) — uncomment below if you prefer a 3D graph instead of the snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/snake/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/darsh-vaishnav/darsh-vaishnav/snake/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 -->
 
@@ -326,6 +326,7 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.sololearn.com/en/profile/37255667"><img src="https://img.shields.io/badge/SoloLearn-181717?style=for-the-badge&logo=sololearn&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -334,19 +335,20 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
 <h2 id="connect-with-me">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@your-youtube-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/darsh-vaishnav-27a132427/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/darsh-vaishnav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCEycxEyc8340R-jdBEZJQaA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/darshvaishnavcg"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=firefox&logoColor=black" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Replace the placeholder links above with your real profile URLs -->
-<!-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username -->
-<!-- GitHub:   https://github.com/your-github-username -->
-<!-- YouTube:  https://www.youtube.com/@your-youtube-channel -->
-<!-- Twitter:  https://twitter.com/your-twitter-handle -->
+<!-- LinkedIn: https://www.linkedin.com/in/darsh-vaishnav-27a132427/ -->
+<!-- GitHub:   https://github.com/darsh-vaishnav -->
+<!-- YouTube:  https://www.youtube.com/channel/UCEycxEyc8340R-jdBEZJQaA -->
+<!-- Twitter:  https://x.com/darshvaishnavcg -->
+<!-- SoloLearn: https://www.sololearn.com/en/profile/37255667 -->
 
 <br/>
 
@@ -381,7 +383,7 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
 <h2>👀 Profile Visitors</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=38BDF8&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=darsh-vaishnav&label=Profile+Views&color=38BDF8&style=flat" />
 </p>
 
 <br/>
@@ -395,7 +397,7 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
 
 <p>Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories and let's connect to build something amazing together.</p>
 
-<p>Made with ❤️ by <a href="https://github.com/your-github-username">[Your Name]</a></p>
+<p>Made with ❤️ by <a href="https://github.com/darsh-vaishnav">Darsh Vaishnav</a></p>
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powered_by_coffee.png" alt="Powered by Coffee" width="220" />
 
