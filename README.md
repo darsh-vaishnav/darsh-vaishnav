@@ -170,33 +170,9 @@ I'm a passionate **Software Developer** and a final-year **B.E. student at Swami
 <!-- ============ 5. GITHUB STATISTICS ============ -->
 <h2 id="stats">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darsh-vaishnav&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-vaishnav&layout=donut&theme=github_dark&hide_border=true&count_private=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darsh-vaishnav&theme=github-dark-blue&hide_border=true" width="62%" />
-</p>
-
 <!-- Contribution graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darsh-vaishnav&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darsh-vaishnav&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=6" width="95%" />
-</p>
-
-<!-- GitHub profile summary cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darsh-vaishnav&theme=github_dark" width="95%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darsh-vaishnav&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darsh-vaishnav&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darsh-vaishnav&theme=github_dark" width="32%" />
 </p>
 
 <!-- 3D animated contribution graph (auto-updates daily via .github/workflows/profile-3d.yml) -->
