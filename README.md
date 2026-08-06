@@ -2,7 +2,8 @@
   GITHUB PROFILE README — SOFTWARE DEVELOPER | B.E. STUDENT
   ------------------------------------------------------------
   HOW TO CUSTOMIZE:
-  • Change the email / portfolio link (search for "your.email@example.com").
+  • Change the email / portfolio link (search for "darsh.vaishnav.cg@gmail.com
+").
   • Stats graphs use the GitHub username: darsh-vaishnav.
   • Badge colors can be changed via the "color=" query param.
   • Hidden sections are inside <details> — click to expand.
