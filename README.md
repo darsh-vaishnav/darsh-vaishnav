@@ -14,7 +14,7 @@
 
 <!-- Animated typing banner (edit lines inside the quotes) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Name%5D;Software+Developer+%7C+B.E.+Student;Swaminarayan+University;Building+%E2%9C%A8+Tech+for+Real-World+Problems;Always+Learning+%F0%9F%9A%80+Always+Building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BDARSH VAISHNAV%5D;Software+Developer+%7C+B.E.+Student;Swaminarayan+University;Building+%E2%9C%A8+Tech+for+Real-World+Problems;Always+Learning+%F0%9F%9A%80+Always+Building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <!-- Greeting + tagline -->
